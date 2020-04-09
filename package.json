@@ -1,0 +1,39 @@
+{
+  "name": "super-coder-chat",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.9.8",
+    "@material-ui/icons": "4.9.1",
+    "date-fns": "2.11.1",
+    "firebase": "7.13.2",
+    "istanbul-lib-coverage": "3.0.0",
+    "lodash": "4.17.15",
+    "notistack": "0.9.9",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-dropzone": "10.2.2",
+    "react-firebase-hooks": "2.1.1",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1",
+    "react-scroll": "1.7.16",
+    "validator": "13.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
