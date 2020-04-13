@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.jgvnhr",
+      "sha256_cert_fingerprints": [
+        "2C:CB:08:ED:39:9A:5B:BD:3F:26:A6:43:9F:A7:6B:CA:55:57:FC:43:C0:44:D4:FA:F5:AA:1D:2D:08:30:15:59",
+        "47:CC:8D:69:6A:B4:28:36:A9:96:27:F4:A4:E0:6C:BD:00:D6:FC:EA:4B:F5:D8:74:24:BF:2D:2F:98:03:CD:F3"
+      ]
+    }
+  }
+]
