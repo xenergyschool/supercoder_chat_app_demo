@@ -3,7 +3,7 @@
   "short_name": "Aplikasi Chat",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "landscape",
   "Scope": "/",
   "start_url": "/",
